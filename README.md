@@ -71,27 +71,6 @@ ________________________________________
 2ND ANSWERS
 
 
-# 🎯 DevOps Exam - Complete Cheat Sheet
-**Exam: 30.12.2025 | 14:00-16:00 | 6 Questions × 5 Points = 30 Points | 90 Minutes**
-
-> **Note**: This cheat sheet covers general DevOps concepts (Categories 1 & 2) and project-specific details (Category 3). File paths and project examples are included where relevant.
-
----
-
-## 📋 EXAM FORMAT
-
-- **Format**: 6 freeform questions, 5 points each (30 points total)
-- **Duration**: 90 minutes
-- **Allowed**: Course materials, GitLab repos, personal notes
-- **Forbidden**: Chatbots, communication, Google Search
-
-### Question Categories:
-1. **Applied DevOps Scenarios** (2 ± 1 questions) - Solve real-world problems
-2. **DevOps Concepts** (2 ± 1 questions) - Explain theoretical foundations
-3. **Retrospective & Analysis** (2 ± 1 questions) - Reflect on your project
-
----
-
 ## 🎯 CATEGORY 1: APPLIED DEVOPS SCENARIOS
 
 ### Scenario 1: Direct Production Edits (nano/SSH)
